@@ -4,7 +4,7 @@ Student record management system
 Name: 
 Leung Yu Sun
 
-Application link:
+Application link https://student-record-system.onrender.com:
 
 ********************************************
 # Login
